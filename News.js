@@ -1,13 +1,3 @@
-/* Predefined Variables Are:
- *     blog_url
- *     latest_post
- *     background_color
- *     border_color
- *     scrolling_speed
- *     info_text
- *     close_button
- *     WWW.IDBLANTER.COM
- */
 var entries; var feed;
 var feed_url = blog_url.match(/\/$/) ? blog_url : blog_url+"/";
 feed_url += "feeds/posts/default";
