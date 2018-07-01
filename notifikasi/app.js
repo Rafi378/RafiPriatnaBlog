@@ -5,7 +5,7 @@
     databaseURL: "https://rafi-priatna-notifikasi.firebaseio.com",
     projectId: "rafi-priatna-notifikasi",
     storageBucket: "rafi-priatna-notifikasi.appspot.com",
-    messagingSenderId: ""
+    messagingSenderId: "447298606224"
   };
   firebase.initializeApp(config);
   
