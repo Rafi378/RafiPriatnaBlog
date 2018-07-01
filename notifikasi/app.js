@@ -3,9 +3,7 @@
     apiKey: "AIzaSyB5RVi1468NVOkNcD9r7FmEaGOjkJscUtQ",
     authDomain: "rafi-priatna-notifikasi.firebaseapp.com",
     databaseURL: "https://rafi-priatna-notifikasi.firebaseio.com",
-    projectId: "rafi-priatna-notifikasi",
-    storageBucket: "rafi-priatna-notifikasi.appspot.com",
-    messagingSenderId: "447298606224"
+    storageBucket: "rafi-priatna-notifikasi.appspot.com"
   };
   firebase.initializeApp(config);
   
