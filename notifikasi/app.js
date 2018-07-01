@@ -1,11 +1,11 @@
   // Initialize Firebase
   var config = {
-    apiKey: "AIzaSyB5RVi1468NVOkNcD9r7FmEaGOjkJscUtQ",
-    authDomain: "rafi-priatna-notifikasi.firebaseapp.com",
-    databaseURL: "https://rafi-priatna-notifikasi.firebaseio.com",
-    projectId: "rafi-priatna-notifikasi",
-    storageBucket: "rafi-priatna-notifikasi.appspot.com",
-    messagingSenderId: "447298606224"
+    apiKey: "AIzaSyD5T6Fsj9u8pyxL1SuV-zdVZyZrKAKooBI",
+    authDomain: "rafi-priatna-notifikasi-ab001.firebaseapp.com",
+    databaseURL: "https://rafi-priatna-notifikasi-ab001.firebaseio.com",
+    projectId: "rafi-priatna-notifikasi-ab001",
+    storageBucket: "rafi-priatna-notifikasi-ab001.appspot.com",
+    messagingSenderId: "1087319142489"
   };
   firebase.initializeApp(config);
   
